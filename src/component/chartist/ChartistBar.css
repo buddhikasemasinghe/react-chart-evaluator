@@ -1,0 +1,11 @@
+.ct-bar{
+    stroke: blue !important;
+}
+
+.ct-grid {
+    display: none !important;
+}
+
+.ct-label {
+    display: none !important;
+}
