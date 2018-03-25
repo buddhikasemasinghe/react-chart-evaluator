@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ChartjsBar = () => {
+const C3Container = () => {
     return (
         <div>
 
@@ -8,5 +8,4 @@ const ChartjsBar = () => {
     );
 };
 
-export default ChartjsBar;
-
+export default C3Container;

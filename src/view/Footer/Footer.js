@@ -1,12 +1,11 @@
 import React from 'react';
 
-const ChartjsBar = () => {
+const Footer = () => {
     return (
         <div>
-
+            This is Footer
         </div>
     );
 };
 
-export default ChartjsBar;
-
+export default Footer;
